@@ -1,0 +1,12 @@
+[book]
+authors = ["sixleaveakkm"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Note"
+
+[preprocessor.katex]
+
+[output.html]
+additional-css = ["mermaid.css"]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
