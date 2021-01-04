@@ -5,7 +5,7 @@ multilingual = false
 src = "src"
 title = "Note"
 
-[preprocessor.katex]
+#[preprocessor.katex]
 
 [output.html]
 additional-css = ["mermaid.css"]
